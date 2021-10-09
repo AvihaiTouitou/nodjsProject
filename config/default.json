@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb+srv://avihai:avihai@cluster0.y17uf.mongodb.net/PROJECT?retryWrites=true&w=majority"
+    ,"jwtSecret":"mysecrettoken",
+    "githubClientId":"92a5300b2f38d88ffbfc",
+    "githubSecret":"847a0d51fd38366a3c9eeb0fd87cb92671079d48"
+}
